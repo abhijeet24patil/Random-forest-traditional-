@@ -1,3 +1,6 @@
+##This is a code for traditional random forest. I have used the Decision tree code from book Machine Learning In action.
+## I have made the requred changes to convert it into Random tree.
+
 from numpy import*
 import random
 import time
