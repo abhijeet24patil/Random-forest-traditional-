@@ -22,7 +22,7 @@ def randomforest(dataSet,q):      ##pass dataset and number of  bootstrap sample
 
 ## function for bootstrapping of dataset
 def bootstrap(dat,q):
-     l=len(dat)
+     #l=len(dat)
      bs=[]
      bbs=[]
      p=dat[0]
